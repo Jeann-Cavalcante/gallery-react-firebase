@@ -1,17 +1,32 @@
-### `npm start`
+# Sobre o projeto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+A aplicação consiste em gerenciar uma galeria de fotos, podendo inserir e excluir fotos, tendo como backend o firebase.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Layout web
+![Web 1](https://github.com/Jeann-Cavalcante/assets-projects/blob/main/Gallery/Galeria.png)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Tecnologias utilizadas
+## Back end
+- Firebase
+## Front end
+- HTML / styled-components / JS / TypeScript
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Como executar o projeto
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Pré-requisitos: npm / yarn
+
+```bash
+# clonar repositório
+git clone https://github.com/Jeann-Cavalcante/gallery-react-firebase.git
+
+# executar o projeto
+npm start
+```
+
+# Autor
+
+Jean cavalcante
+
+https://www.linkedin.com/in/jean-cavalcante-296245149/
+
